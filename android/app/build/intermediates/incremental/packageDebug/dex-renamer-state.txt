@@ -1,0 +1,4 @@
+#Mon Nov 13 03:53:51 CET 2017
+base.0=/home/maupa/Desktop/Praca/InFullMobile/reactNative/Tutorial/TestProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/maupa/Desktop/Praca/InFullMobile/reactNative/Tutorial/TestProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
